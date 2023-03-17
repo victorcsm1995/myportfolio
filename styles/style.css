@@ -42,7 +42,7 @@ body {
     text-decoration: none;
     font-family: var(--fonte-secundaria);
     font-weight: 600;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .apresentacao {
@@ -137,7 +137,7 @@ body {
     }
 
     .apresentacao_imagem{
-        width: 50%;
+        width: 60%;
         
     }
 
@@ -145,4 +145,7 @@ body {
         width: auto;
     }
 
+    .apresentacao_links_link{
+        width: 60%;
+    }
 }
