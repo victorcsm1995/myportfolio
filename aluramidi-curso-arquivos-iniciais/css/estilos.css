@@ -68,7 +68,7 @@ h1 {
   color: var(--vermelha);
   cursor: pointer;
   height: 120px;
-  font-size: 1.75em;
+  font-size: 1em;
   font-weight: bold;
   line-height: 120px;
   text-align: center;
@@ -107,4 +107,14 @@ h1 {
   .cabecalho_menu_link{
     font-size: 1.0rem;
   }
+
+  .teclado{
+    box-shadow: none;
+   margin: 0% 5% 0% 0%;
+  }
+
+  .tecla{
+    width: 100px;
+  }
+  
 }
