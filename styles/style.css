@@ -148,4 +148,7 @@ body {
     .apresentacao_links_link{
         width: 60%;
     }
+    .cabecalho_menu_link{
+        font-size: 1.0rem;
+      }
 }
